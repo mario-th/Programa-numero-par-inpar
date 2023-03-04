@@ -1,0 +1,15 @@
+C:\Users\mario\source\repos\ParOInpar\ParOInpar\bin\Debug\net6.0\ParOInpar.exe
+C:\Users\mario\source\repos\ParOInpar\ParOInpar\bin\Debug\net6.0\ParOInpar.deps.json
+C:\Users\mario\source\repos\ParOInpar\ParOInpar\bin\Debug\net6.0\ParOInpar.runtimeconfig.json
+C:\Users\mario\source\repos\ParOInpar\ParOInpar\bin\Debug\net6.0\ParOInpar.dll
+C:\Users\mario\source\repos\ParOInpar\ParOInpar\bin\Debug\net6.0\ParOInpar.pdb
+C:\Users\mario\source\repos\ParOInpar\ParOInpar\obj\Debug\net6.0\ParOInpar.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\ParOInpar\ParOInpar\obj\Debug\net6.0\ParOInpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\ParOInpar\ParOInpar\obj\Debug\net6.0\ParOInpar.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\ParOInpar\ParOInpar\obj\Debug\net6.0\ParOInpar.AssemblyInfo.cs
+C:\Users\mario\source\repos\ParOInpar\ParOInpar\obj\Debug\net6.0\ParOInpar.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\ParOInpar\ParOInpar\obj\Debug\net6.0\ParOInpar.dll
+C:\Users\mario\source\repos\ParOInpar\ParOInpar\obj\Debug\net6.0\refint\ParOInpar.dll
+C:\Users\mario\source\repos\ParOInpar\ParOInpar\obj\Debug\net6.0\ParOInpar.pdb
+C:\Users\mario\source\repos\ParOInpar\ParOInpar\obj\Debug\net6.0\ParOInpar.genruntimeconfig.cache
+C:\Users\mario\source\repos\ParOInpar\ParOInpar\obj\Debug\net6.0\ref\ParOInpar.dll
